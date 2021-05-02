@@ -1,7 +1,7 @@
 ### Hi, I am Deepak Sen
 #### I am a Machine Learning Engineer at Quantiphi Analytics. I did graduation from Indian Institute of Technology Roorkee, in Biotechnology.
  <br>
- <img align="right" alt="GIF" src="https://media.giphy.com/media/XZmKxVonMxeY8oTKR6/giphy.gif" sizes="100vw"/>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/XZmKxVonMxeY8oTKR6/giphy.gif" sizes="(min-width: 400px) 400px, 100vw" width="200"/>
  
 **Current Status:**
 
