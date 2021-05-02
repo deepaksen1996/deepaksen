@@ -37,4 +37,4 @@
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/deepaksen1996/count.svg)
 
-⭐️ Forked From [Avhi](https://github.com/abiswas100)
+⭐️ Template - From [Avhi](https://github.com/abiswas100)
