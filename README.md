@@ -22,10 +22,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=deepaksen1996&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 
 ### Connect with me 
-  <a href="https://www.linkedin.com/in/avhishek-biswas-354858144/">
+  <a href="https://www.linkedin.com/in/deepak-sen-081096/">
     <img align="left" alt="Deepak Sen | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/the_phantom_menace19/">
+  <a href="https://www.instagram.com/rover_kinz/">
     <img align="left" alt="Deepak Sen | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:deepak.iitr2019@gmail.com">
