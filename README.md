@@ -19,7 +19,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksen1996)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepaksen1996&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepaksen1996&&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="My Github Stats">
 
 ### Connect with me 
   <a href="https://www.linkedin.com/in/deepak-sen-081096/">
