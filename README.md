@@ -35,6 +35,6 @@
 <br><br>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/deepaksen1996/count.svg)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/deepaksen1996/count.svg) -->
 
 ⭐️ Template - From [Avhi](https://github.com/abiswas100)
