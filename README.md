@@ -35,6 +35,7 @@
 <br><br>
 
 #### Thanks for visiting :heart:
+![](https://komarev.com/ghpvc/?username=oke-aditya&color=green)
 <!-- ![VisitorCount](https://profile-counter.glitch.me/deepaksen1996/count.svg) -->
 
 ⭐️ Template - From [Avhi](https://github.com/abiswas100)
